@@ -37,7 +37,7 @@ This project replicates the **conflict-of-interest screening workflow** used by 
 
 The output is a **management-ready risk register** and **dashboard suite** that mirrors the deliverables a junior risk analyst would produce for weekly review by the Risk & Independence team.
 
-> ⚠️ *All client names, financial figures, and engagement details are entirely synthetic and created for portfolio demonstration purposes only. No real client information has been used.*
+> ⚠️ *All client names, financial figures, and engagement details are entirely synthetic and created for portfolio and personal data analysis practices purposes only. No real client information has been used.*
 
 ---
 
