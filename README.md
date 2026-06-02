@@ -190,7 +190,7 @@ jupyter notebook conflict_of_interest_screening.ipynb
 This project was developed to demonstrate applied knowledge of professional services independence compliance — the workflow, the regulatory framework, and the analytical tools that a junior risk analyst would use in a Big 4 or mid-tier firm's Risk & Independence function. It bridges data analytics with professional ethics and compliance — a combination that is rare and highly valued in firms where independence breaches carry regulatory, reputational, and financial consequences.
 
 Skills demonstrated:
-- Applied knowledge of IESBA, IFAC, and PCAOB independence standards
+- Applied knowledge of IESBA, IFAC, and PCAOB independence standards (competence in compliance)
 - Structured risk scoring and rating methodology
 - Professional documentation and risk register management
 - SLA tracking and operational performance monitoring
